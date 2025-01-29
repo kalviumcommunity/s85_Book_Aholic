@@ -1,7 +1,7 @@
-# 🛒 Book Haven - Your Ultimate Online Bookstore
+# 🛒 Book-aholic - Your Ultimate Online Bookstore
 
 ## 🎯 Project Overview
-**Book Haven** is a feature-rich online bookstore designed to provide a seamless and enjoyable book-buying experience. Whether you're looking for the latest bestsellers, rare finds, or personalized recommendations, Book Haven makes purchasing books effortless and enjoyable.
+**Book-aholic** is a feature-rich online bookstore designed to provide a seamless and enjoyable book-buying experience. Whether you're looking for the latest bestsellers, rare finds, or personalized recommendations, Book Haven makes purchasing books effortless and enjoyable.
 
 ## ✨ Key Features
 
