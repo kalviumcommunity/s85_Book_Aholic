@@ -1,0 +1,28 @@
+{
+  "name": "full",
+  "version": "1.0.0",
+  "description": "**Book-aholic** is a feature-rich online bookstore designed to provide a seamless and enjoyable book-buying experience. Whether you're looking for the latest bestsellers, rare finds, or personalized recommendations, Book Haven makes purchasing books effortless and enjoyable.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalviumcommunity/s85_Book_Aholic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/kalviumcommunity/s85_Book_Aholic/issues"
+  },
+  "homepage": "https://github.com/kalviumcommunity/s85_Book_Aholic#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.15.0",
+    "nodemon": "^3.1.10"
+  }
+}
